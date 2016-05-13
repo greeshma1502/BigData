@@ -1,0 +1,11 @@
+
+The entry point is “HelloOneRule.java”. Run the file.
+
+It will calculate error rate and then ask for user input. Once the correct inputs are given, the output is predicted.
+
+
+Commands:
+
+javac HelloOneRule.java
+
+java HelloOneRule 
